@@ -87,7 +87,7 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://i.imgur.com/LxAtOcK.png" group-title="Brasil",Cartoon NetWork
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="" group-title="Brasil",TV Aparecida
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/OTUf3sZ.png" group-title="Brasil",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeMaisFamília.br" tvg-logo="https://i.imgur.com/VGNFnwz.png" group-title="Brasil",Rede Mais Família
