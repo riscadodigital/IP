@@ -51,6 +51,9 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/HTTu5yO.png" group-title="Brasil",TV Cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV Câmara" tvg-logo="https://i.imgur.com/PvRu7A1.png" group-title="Brasil",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
 #EXTINF:-1 tvg-id="TVCidadeRJ.br" tvg-logo="https://i.imgur.com/fkcpSEp.png" group-title="Brasil",TV Cidade
 https://stream.ichibantv.com:3827/stream/play.m3u8
 
@@ -110,9 +113,6 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Boas Novas.br" tvg-logo="https://i.imgur.com/8r0Ujzx.png" group-title="Brasil",Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Câmara" tvg-logo="https://i.imgur.com/PvRu7A1.png" group-title="Brasil",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/k4UBLiM.png" group-title="Portugal",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
