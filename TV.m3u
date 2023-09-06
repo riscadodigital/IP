@@ -128,3 +128,6 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 #EXTINF:-1 tvg-id="SICNovelas.pt" tvg-logo="https://i.imgur.com/3ffPVt3.png" group-title="Portugal",SIC Novelas
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+
+#EXTINF:-1 tvg-id="RTVInternacional.pt" tvg-logo="" group-title="Portugal",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
