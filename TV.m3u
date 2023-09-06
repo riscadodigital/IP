@@ -75,6 +75,9 @@ https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNovaPlay.br" tvg-logo="https://i.imgur.com/Ms1MRVr.png" group-title="Brasil",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV Channel Network.br" tvg-logo="https://i.imgur.com/sq8OaAB.png" group-title="Brasil",TV Channel Network
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal29.br" tvg-logo="https://i.imgur.com/wPdUa5G.png" group-title="Brasil",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
