@@ -90,6 +90,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/OTUf3sZ.png" group-title="Brasil",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="" group-title="Brasil",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RedeMaisFamília.br" tvg-logo="https://i.imgur.com/VGNFnwz.png" group-title="Brasil",Rede Mais Família
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 
