@@ -117,6 +117,9 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="https://i.imgur.com/i7Z4HW4.png" group-title="Brasil",Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVIgrejaUniversal.br" tvg-logo="https://i.imgur.com/q0DUrCK.png" group-title="Brasil",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Boas Novas.br" tvg-logo="https://i.imgur.com/8r0Ujzx.png" group-title="Brasil",Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
