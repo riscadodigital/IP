@@ -135,6 +135,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP2.pt" tvg-logo="https://i.imgur.com/ThitotK.png" group-title="Portugal",RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8?tk=1694055600_f3b65817cede8067978362f0f13821858dec7cd4
 
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/FwssFxy.png" group-title="Portugal",RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b640000_DVR_slpor.m3u8
+
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://i.imgur.com/p5djQES.png" group-title="Portugal",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
