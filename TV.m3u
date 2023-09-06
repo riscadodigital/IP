@@ -84,11 +84,11 @@ https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Loading.br" tvg-logo="https://i.imgur.com/mPsUn1D.png" group-title="Brasil",TV Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GeekDot.br" tvg-logo="https://i.imgur.com/fSNsewf.png" group-title="Brasil",GeekDot
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="Canal29.br" tvg-logo="https://i.imgur.com/wPdUa5G.png" group-title="Brasil",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GeekDot.br" tvg-logo="https://i.imgur.com/fSNsewf.png" group-title="Brasil",GeekDot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hM1qCxV.png" group-title="Brasil",Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
