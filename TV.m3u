@@ -54,6 +54,9 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Câmara" tvg-logo="https://i.imgur.com/PvRu7A1.png" group-title="Brasil",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
+#EXTINF:-1 tvg-id="CNT" tvg-logo="https://i.imgur.com/bUkEptp.png" group-title="Brasil",CNT
+https://akamai.cdn.spalla.io/live/c125dfb2-87ee-40b9-bf6f-566072c05e84/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTQ1NzA3MTcsImlhdCI6MTY5Mzk2NTkxNywiaWQiOiIwMThhNjgzYy05YWQ5LTcwZDEtOGY1MS04NGQ5Y2M5YTA5ZDAiLCJuYmYiOjE2OTM5NjQxMTcsInVpZCI6IjAxOGE2ODNjLTlhZDktNzBkMS04ZjUxLTg0ZDljYzlhMDlkMCIsInVyaV9zdWIiOiIvYzEyNWRmYjItODdlZS00MGI5LWJmNmYtNTY2MDcyYzA1ZTg0LyJ9.t377GK4R0P4nB1Us8gFdMFAFImH5QjwEz1B1smz6ih0&uid=018a683c-9ad9-70d1-8f51-84d9cc9a09d0
+
 #EXTINF:-1 tvg-id="TVCidadeRJ.br" tvg-logo="https://i.imgur.com/fkcpSEp.png" group-title="Brasil",TV Cidade
 https://stream.ichibantv.com:3827/stream/play.m3u8
 
