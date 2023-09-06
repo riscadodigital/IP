@@ -129,6 +129,9 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Boas Novas.br" tvg-logo="https://i.imgur.com/8r0Ujzx.png" group-title="Brasil",Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/fBYfb5L.png" group-title="Brasil",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/k4UBLiM.png" group-title="Portugal",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
