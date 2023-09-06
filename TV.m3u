@@ -84,6 +84,9 @@ https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Loading.br" tvg-logo="https://i.imgur.com/mPsUn1D.png" group-title="Brasil",TV Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RedeManchete.br" tvg-logo="https://i.imgur.com/ZH2aQfS.png" group-title="Brasil",Nova Manchete
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal29.br" tvg-logo="https://i.imgur.com/wPdUa5G.png" group-title="Brasil",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
