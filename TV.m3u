@@ -75,7 +75,7 @@ https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNovaPlay.br" tvg-logo="https://i.imgur.com/LGPYNR5.png" group-title="Brasil",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVClássicosDoCninema.br" tvg-logo="https://i.imgur.com/6m0L39c.png" group-title="Brasil",TV Clássicos do Cinema
+#EXTINF:-1 tvg-id="TVClássicosDoCinema.br" tvg-logo="https://i.imgur.com/6m0L39c.png" group-title="Brasil",TV Clássicos do Cinema
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
 
 #EXTINF:-1 tvg-id="WebTVXtreme.br" tvg-logo="https://i.imgur.com/oNQxorp.png" group-title="Brasil",TV Xtreme
@@ -84,7 +84,7 @@ https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Loading.br" tvg-logo="https://i.imgur.com/mPsUn1D.png" group-title="Brasil",TV Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeManchete.br" tvg-logo="https://i.imgur.com/ZH2aQfS.png" group-title="Brasil",Nova Manchete
+#EXTINF:-1 tvg-id="TVSéries.br" tvg-logo="https://i.imgur.com/BSUGIoI.png" group-title="Brasil",TV Séries
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal29.br" tvg-logo="https://i.imgur.com/wPdUa5G.png" group-title="Brasil",Canal 29
