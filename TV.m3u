@@ -96,7 +96,7 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMaisFamília.br" tvg-logo="https://i.imgur.com/VGNFnwz.png" group-title="Brasil",Rede Mais Família
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="" group-title="Brasil",Novo Tempo
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="https://i.imgur.com/i7Z4HW4.png" group-title="Brasil",Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
 
