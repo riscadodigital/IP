@@ -141,7 +141,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAçores.pt" tvg-logo="https://i.imgur.com/zbK9JSa.png" group-title="Portugal",RTP Açores
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTPÁfrica.pt" tvg-logo="https://i.imgur.com/lOuZmLO.png" group-title="Portugal",RTP África
+#EXTINF:-1 tvg-id="RTPÁfrica.pt" tvg-logo="https://i.imgur.com/cLTlkXQ.png" group-title="Portugal",RTP África
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTPMemória.pt" tvg-logo="https://i.imgur.com/3wVZN4i.png" group-title="Portugal",RTP Memória
