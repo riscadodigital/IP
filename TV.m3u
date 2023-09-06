@@ -96,21 +96,6 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-id="GeekDot.br" tvg-logo="https://i.imgur.com/fSNsewf.png" group-title="Brasil",GeekDot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hM1qCxV.png" group-title="Brasil",Retrô Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JetsonsTV.br" tvg-logo="https://i.imgur.com/5EgMXaw.png" group-title="Brasil",TV Jetsons
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KidsMais.br" tvg-logo="https://i.imgur.com/ZaTU2AK.png" group-title="Brasil",TV Kids Mais
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://i.imgur.com/LxAtOcK.png" group-title="Brasil",Cartoon NetWork
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-logo="https://i.imgur.com/Iokwtg6.png" group-title="Brasil",Cartoonito
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Boa Vontade TV.br" tvg-logo="https://i.imgur.com/Ra5Go61.png" group-title="Brasil",Boa Vontade TV
 https://ythls.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
 
@@ -137,6 +122,21 @@ https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/fBYfb5L.png" group-title="Brasil",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hM1qCxV.png" group-title="Brasil",Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JetsonsTV.br" tvg-logo="https://i.imgur.com/5EgMXaw.png" group-title="Brasil",TV Jetsons
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KidsMais.br" tvg-logo="https://i.imgur.com/ZaTU2AK.png" group-title="Brasil",TV Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-logo="https://i.imgur.com/LxAtOcK.png" group-title="Brasil",Cartoon NetWork
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-logo="https://i.imgur.com/Iokwtg6.png" group-title="Brasil",Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/k4UBLiM.png" group-title="Portugal",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
