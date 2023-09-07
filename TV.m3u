@@ -84,6 +84,8 @@ https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456
 #EXTINF:-1 tvg-id="WebTVXtreme.br" tvg-logo="https://i.imgur.com/oNQxorp.png" group-title="Brasil",TV Xtreme
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="Canal29.br" tvg-logo="https://i.imgur.com/wPdUa5G.png" group-title="Brasil",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
@@ -92,6 +94,9 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GLNTV.br" tvg-logo="https://i.imgur.com/PAH1shB.png" group-title="Brasil",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoadingTV.br" tvg-logo="https://i.imgur.com/mPsUn1D.png" group-title="Brasil",Loading TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GeekDot.br" tvg-logo="https://i.imgur.com/fSNsewf.png" group-title="Brasil",GeekDot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
