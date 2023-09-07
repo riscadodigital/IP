@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Aragón.es" tvg-logo="https://i.imgur.com/Nf8jdIY.png" group-title="España",Aragón TV
+https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
