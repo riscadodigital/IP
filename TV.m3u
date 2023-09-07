@@ -33,6 +33,9 @@ https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/SmBnXiX.png" group-title="Brasil",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="TVMaisBrasil.br" tvg-logo="https://i.imgur.com/LdhQogK.png" group-title="Brasil",TV Mais Brasil
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
@@ -84,8 +87,6 @@ https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456
 #EXTINF:-1 tvg-id="WebTVXtreme.br" tvg-logo="https://i.imgur.com/oNQxorp.png" group-title="Brasil",TV Xtreme
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Canal29.br" tvg-logo="https://i.imgur.com/wPdUa5G.png" group-title="Brasil",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
@@ -100,6 +101,8 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GeekDot.br" tvg-logo="https://i.imgur.com/fSNsewf.png" group-title="Brasil",GeekDot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Boa Vontade TV.br" tvg-logo="https://i.imgur.com/Ra5Go61.png" group-title="Brasil",Boa Vontade TV
 https://ythls.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
@@ -131,6 +134,8 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Boas Novas.br" tvg-logo="https://i.imgur.com/8r0Ujzx.png" group-title="Brasil",Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://i.imgur.com/jvLimr8.png" group-title="Brasil",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
@@ -149,8 +154,17 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-logo="https://i.imgur.com/V7w9P4V.png" group-title="Brasil",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/k4UBLiM.png" group-title="Portugal",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1 tvg-id="SICNovelas.pt" tvg-logo="https://i.imgur.com/3ffPVt3.png" group-title="Portugal",SIC Novelas
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+
+
+#EXTINF:-1 tvg-id="TVGalíciaAmérica.es" tvg-logo="https://i.imgur.com/f1HZIcI.png" group-title="Galícia",TVG - Galícia TV América
+https://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGalíciaEuropa.es" tvg-logo="https://i.imgur.com/f1HZIcI.png" group-title="Galícia",TVG - Galícia TV Europa
+https://europa-crtvg.flumotion.com/playlist.m3u8
