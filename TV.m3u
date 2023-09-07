@@ -90,6 +90,9 @@ https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal29.br" tvg-logo="https://i.imgur.com/wPdUa5G.png" group-title="Brasil",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TelaVivaTV.br" tvg-logo="https://i.imgur.com/afsaJ1g.png" group-title="Brasil",Tela Viva TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVSéries.br" tvg-logo="https://i.imgur.com/8kFAZAH.png" group-title="Brasil",TV Séries
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
