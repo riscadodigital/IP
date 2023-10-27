@@ -151,10 +151,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-logo="https://i.imgur.com/V7w9P4V.png" group-title="Brasil",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVMundoMaior.br" tvg-logo="https://i.imgur.com/ebrXdvD.png",TV Mundo Maior
-https://youtu.be/M8hngMKOAug
-
-
 
 #EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/k4UBLiM.png" group-title="Portugal",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
