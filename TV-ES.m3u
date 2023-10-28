@@ -3,3 +3,6 @@
 #EXTINF:-1 tvg-id="Aragón.es" tvg-logo="https://i.imgur.com/Nf8jdIY.png" group-title="España",Aragón TV
 https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
+#EXTINF:-1 tvg-id="Once.mx" tvg-logo="" group-title="México",Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
