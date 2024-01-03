@@ -27,6 +27,9 @@ https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w181533067.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/80zeYLs.png" group-title="Brasil",Rede Brasil TV
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
 
+#EXTINF:-1 tvg-id="RBTV.br" tvg-logo="" group-title="Brasil",RBTV
+https://st-srv02.alfamax.com.br/Virtual2/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
 #EXTINF:-1 tvg-id="CentralTV.br" tvg-logo="https://i.imgur.com/nSOcZMg.png" group-title="Brasil",Central TV
 https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
 
