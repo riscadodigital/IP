@@ -33,6 +33,9 @@ https://st-srv02.alfamax.com.br/Virtual2/tracks-v1a1/mono.m3u8?token=cdntv_62qwd
 #EXTINF:-1 tvg-id="RedeMundo.br" tvg-logo="https://i.imgur.com/opbhJ94.png" group-title="Brasil",Rede Mundo TV
 https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RedeUTVBrasil.br" tvg-logo="https://i.imgur.com/Epw7YBj.png" group-title="Brasil",Rede UTV Brasil
+https://5cf4a2c2512a2.streamlock.net/8188/8188/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CentralTV.br" tvg-logo="https://i.imgur.com/nSOcZMg.png" group-title="Brasil",Central TV
 https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
 
@@ -84,11 +87,11 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-id="CaravanaPlay.br" tvg-logo="https://i.imgur.com/CtBgN67.png" group-title="Brasil",Caravana Play
 https://srv4.zcast.com.br/keynni2406/keynni2406/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVClássicosDoCinema.br" tvg-logo="https://i.imgur.com/6m0L39c.png" group-title="Brasil",TV Clássicos do Cinema
-https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal29.br" tvg-logo="https://i.imgur.com/wPdUa5G.png" group-title="Brasil",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVClássicosDoCinema.br" tvg-logo="https://i.imgur.com/6m0L39c.png" group-title="Brasil",TV Clássicos do Cinema
+https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WebTVXtreme.br" tvg-logo="https://i.imgur.com/oNQxorp.png" group-title="Brasil",TV Xtreme
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
