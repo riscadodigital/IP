@@ -37,7 +37,7 @@ https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8188/8188/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CentralTV.br" tvg-logo="https://i.imgur.com/nSOcZMg.png" group-title="Brasil",Central TV
-https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/SmBnXiX.png" group-title="Brasil",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
