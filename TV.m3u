@@ -74,8 +74,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVAdessoTV.br" tvg-logo="https://i.imgur.com/zkUf9QR.png" group-title="Brasil",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCidadeRJ.br" tvg-logo="https://i.imgur.com/fkcpSEp.png" group-title="Brasil",TV Cidade
-https://stream.ichibantv.com:3827/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="TVCarioca.br" tvg-logo="https://i.imgur.com/pOz03dX.png" group-title="Brasil",TV Carioca
 https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
