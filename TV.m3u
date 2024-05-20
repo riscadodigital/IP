@@ -79,6 +79,7 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVNovaPlay.br" tvg-logo="https://i.imgur.com/LGPYNR5.png" group-title="Brasil",TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VilaTV.br" tvg-logo="https://i.imgur.com/OjktQnX.png" group-title="Brasil",Vila TV
 https://streamserver.streamingdevideo.com.br/8072/8072/playlist.m3u8
