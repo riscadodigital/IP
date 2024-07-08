@@ -90,6 +90,10 @@ https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal29.br" tvg-logo="https://i.imgur.com/wPdUa5G.png" group-title="Brasil",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TelaBrasilTV" tvg-logo="" group-title="Brasil",Tela Brasil TV
+https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="TVClássicosDoCinema.br" tvg-logo="https://i.imgur.com/6m0L39c.png" group-title="Brasil",TV Clássicos do Cinema
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 
