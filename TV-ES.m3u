@@ -6,7 +6,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="Aragón.es" tvg-logo="https://i.imgur.com/Nf8jdIY.png" group-title="España",Aragón TV
 https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-id="Once.mx" tvg-logo="" group-title="México",Canal Once
+#EXTINF:-1 tvg-id="Once.mx" tvg-logo="https://i.imgur.com/zpVs2Cx.png" group-title="México",Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Estrella.usa" tvg-logo="" group-title="USA",Estrella TV
