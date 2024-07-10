@@ -4,7 +4,7 @@
 https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-id="Once.mx" tvg-logo="" group-title="México",Canal Once
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1131072.m3u8
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Estrella.usa" tvg-logo="" group-title="USA",Estrella TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
