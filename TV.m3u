@@ -25,9 +25,6 @@ https://live-b.cf.dmcdn.net/sec2(XYwMoaNPm02LVpCjpmsoqceeZAwKKDjAZn8-tGFqODJw_2-
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/80zeYLs.png" group-title="Brasil",Rede Brasil TV
 https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RBTV.br" tvg-logo="https://i.imgur.com/9RrGtSl.png" group-title="Brasil",RBTV
-https://st-srv02.alfamax.com.br/Virtual2/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-
 #EXTINF:-1 tvg-id="RedeMundo.br" tvg-logo="https://i.imgur.com/opbhJ94.png" group-title="Brasil",Rede Mundo TV
 https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
 
