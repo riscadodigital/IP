@@ -3,8 +3,7 @@
 
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/Gk673c8.png" group-title="Brasil",SBT
 #EXTBG: #046f55
-https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/19347643-faa3-49f2-b46e-3e205e7b7887/1.m3u8
-//https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8//
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV-MT.br" tvg-logo="https://i.imgur.com/Codbtrw.png" group-title="Brasil",Record TV
 #EXTBG: #046f55
