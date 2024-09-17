@@ -1,4 +1,5 @@
 #EXTM3U size="big"
+#EXTBG: #046f55
 
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/Gk673c8.png" group-title="Brasil",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
