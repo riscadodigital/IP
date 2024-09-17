@@ -119,6 +119,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HnQSKzC.jpeg" group-title="Brasil",Kiss TV
+https://isaocorp.cloudecast.com/kisstv/index.fmp4.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hM1qCxV.png" group-title="Brasil",Retrô Cartoon
