@@ -12,6 +12,9 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hwpTl58.png" group-title="Brasil",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
+#EXTINF:-1 tvg-logo="" group-title="Brasil",Times Brasil | CNBC
+https://live-b2.cf.dmcdn.net/sec2(TqhReZ3cItsuMYutxCBMh_kY1c6U32NonuRyI1ndkbPfvnyn9c0D3oVDYCDZgTxdqrLgCZDFVnXZPvAVS5fou2UQ-MYHikT6-stXl7uhfTuZcwky_Dp02ma0HmDEFAUb)/cloud/3/x9ap9pq/d/live-720@60.m3u8#cell=lcfb2
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YOB1mow.png" group-title="Brasil",Rede Família
 https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
 
