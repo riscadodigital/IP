@@ -14,9 +14,6 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfB5cPG.png" group-title="Brasil",RedeTV!
 https://www.dailymotion.com/cdn/live/video/x8xps0s.m3u8?sec=0nRbKMMqqFm_Q7hOwtOrpabkWL4VY5xrp7ROz8V5PUf-0n149_3G0mUX_QInAEKdxPFK3yaYwPrZBhWH0_P_PA&dmTs=118045&dmV1st=33a06421-3b28-6d0b-f4af-f72d389e4edc
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nA3oQmx.png" group-title="Brasil",CNN Brasil
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWZI7oI.png" group-title="Brasil",Times Brasil | CNBC
 https://live-b2.cf.dmcdn.net/sec2(TqhReZ3cItsuMYutxCBMh_kY1c6U32NonuRyI1ndkbPfvnyn9c0D3oVDYCDZgTxdqrLgCZDFVnXZPvAVS5fou2UQ-MYHikT6-stXl7uhfTuZcwky_Dp02ma0HmDEFAUb)/cloud/3/x9ap9pq/d/live-720@60.m3u8#cell=lcfb2
@@ -102,6 +99,9 @@ https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/SR9SHEv.png" group-title="Brasil",1980 Channel
 https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GfIoE0o.png" group-title="Brasil", Rádio e TV Clássicos FM
+https://v01.taaqui.org/joel/joel/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/6m0L39c.png" group-title="Brasil",TV Clássicos do Cinema
