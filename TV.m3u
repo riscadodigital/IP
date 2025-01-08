@@ -107,6 +107,10 @@ https://v01.taaqui.org/joel/joel/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/6m0L39c.png" group-title="Brasil",TV Clássicos do Cinema
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/kUVa40C.png" group-title="Brasil",BS-TV Online
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://i.imgur.com/oNQxorp.png" group-title="Brasil",TV Xtreme
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
