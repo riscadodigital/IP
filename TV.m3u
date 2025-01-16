@@ -5,18 +5,15 @@
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Gk673c8.png" group-title="Brasil",SBT
 https://d1jvs4svzaqp8n.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/2308c343-0040-48c4-ac07-19ba81a9588a/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B6b73FR.png" group-title="Brasil",Band
-https://www.dailymotion.com/cdn/live/video/x83vbd6.m3u8?sec=1hJFSFEzP09aMl4EW4jwoukeiR13g7mwp-1yOhjpg9GXXQZJ-XgAC2wv2aiECM2HQZSf5sxLgYIo5fjNDCKuy3LW9MzNgq2sABYjvIeyb9k&dmTs=118045&dmV1st=33a06421-3b28-6d0b-f4af-f72d389e4edc
+
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Codbtrw.png" group-title="Brasil",Record TV
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nfB5cPG.png" group-title="Brasil",RedeTV!
-https://www.dailymotion.com/cdn/live/video/x8xps0s.m3u8?sec=0nRbKMMqqFm_Q7hOwtOrpabkWL4VY5xrp7ROz8V5PUf-0n149_3G0mUX_QInAEKdxPFK3yaYwPrZBhWH0_P_PA&dmTs=118045&dmV1st=33a06421-3b28-6d0b-f4af-f72d389e4edc
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aWZI7oI.png" group-title="Brasil",Times Brasil | CNBC
-https://live-b2.cf.dmcdn.net/sec2(TqhReZ3cItsuMYutxCBMh_kY1c6U32NonuRyI1ndkbPfvnyn9c0D3oVDYCDZgTxdqrLgCZDFVnXZPvAVS5fou2UQ-MYHikT6-stXl7uhfTuZcwky_Dp02ma0HmDEFAUb)/cloud/3/x9ap9pq/d/live-720@60.m3u8#cell=lcfb2
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hwpTl58.png" group-title="Brasil",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
