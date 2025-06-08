@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Gk673c8.png" group-title="Brasil",SBT
-https://d1jvs4svzaqp8n.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/e8c690c5-3b7a-4618-a3fe-d70bca0916f9/4.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Codbtrw.png" group-title="Brasil",Record TV
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
