@@ -114,11 +114,6 @@ https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/afsaJ1g.png" group-title="Brasil",Tela Viva TV
-https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
-
-
-
 
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/8kFAZAH.png" group-title="Brasil",TV Séries
