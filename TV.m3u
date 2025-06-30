@@ -34,7 +34,7 @@ https://video08.logicahost.com.br/istvnacional/srt.stream/playlist.m3u8
 https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w831577417.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/LdhQogK.png" group-title="Brasil",TV Mais Brasil
-https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/2gUlXDH.png" group-title="Brasil",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
