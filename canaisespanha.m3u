@@ -25,6 +25,8 @@ https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-id="SanRoqueTV.es" tvg-logo="https://i.imgur.com/SZzQr1E.png" group-title="España",San Roque TV
 https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="OndaCadiz.es" tvg-logo="https://i.imgur.com/KHLpQv8.png" group-title="España",Onda Cádiz
+https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 
 
 
