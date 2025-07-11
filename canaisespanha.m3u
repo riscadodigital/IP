@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="HispanTV.es" tvg-logo="https://i.imgur.com/w94glAV.png" group-title="Espanã",HispanTV
 https://live.presstv.ir/hls/hispantv.m3u8
 
+#EXTINF:-1 tvg-id="RTVE.es" tvg-logo="https://i.imgur.com/UouxirQ.png" group-title="España",RTVE 24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
+
 #EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://i.imgur.com/f1HZIcI.png" group-title="Galícia",TVG - Galicia TV América
 https://crtvg-america.flumotion.cloud/playlist.m3u8
 
@@ -12,7 +15,6 @@ https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="Aragón.es" tvg-logo="https://i.imgur.com/Nf8jdIY.png" group-title="España",Aragón TV
 https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-id="RTVE.es" tvg-logo="https://i.imgur.com/UouxirQ.png" group-title="España",RTVE 24h
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
+
 
 
