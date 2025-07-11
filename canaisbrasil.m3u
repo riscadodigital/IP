@@ -27,6 +27,7 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/SmBnXiX.png" group-title="Brasil",ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w1158159924.m3u8
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/LdhQogK.png" group-title="Brasil",TV Mais Brasil
