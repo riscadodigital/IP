@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="HispanTV.es" tvg-logo="https://i.imgur.com/w94glAV.png" group-title="Espanã",HispanTV
+https://live.presstv.ir/hls/hispantv.m3u8
+
 #EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://i.imgur.com/f1HZIcI.png" group-title="Galícia",TVG - Galicia TV América
 https://crtvg-america.flumotion.cloud/playlist.m3u8
 
