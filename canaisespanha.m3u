@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1HZIcI.png" group-title="Galícia",TVG - Galicia TV América
+https://crtvg-america.flumotion.cloud/playlist.m3u8
 https://crtvg-america.flumotion.cloud/crtvg/america_high/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1HZIcI.png" group-title="Galícia",TVG - Galícia TV Europa
