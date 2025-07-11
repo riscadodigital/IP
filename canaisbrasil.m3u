@@ -3,27 +3,27 @@
 #EXTINF:-1  tvg-id="TVParaense.br" tvg-logo="https://i.imgur.com/M3MtpuY.png" group-title="Brasil",TV Paraense/SBT
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Codbtrw.png" group-title="Brasil",Record TV
+#EXTINF:-1  tvg-id="RecordTV.br" tvg-logo="https://i.imgur.com/Codbtrw.png" group-title="Brasil",Record TV
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hwpTl58.png" group-title="Brasil",Record News
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/hwpTl58.png" group-title="Brasil",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YOB1mow.png" group-title="Brasil",Rede Família
+#EXTINF:-1 tvg-id="RedeFamília.br" tvg-logo="https://i.imgur.com/YOB1mow.png" group-title="Brasil",Rede Família
 https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/80zeYLs.png" group-title="Brasil",Rede Brasil TV
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/80zeYLs.png" group-title="Brasil",Rede Brasil TV
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Epw7YBj.png" group-title="Brasil",Rede UTV Brasil
+#EXTINF:-1  tvg-id="RedeUTVBrasil.br" tvg-logo="https://i.imgur.com/Epw7YBj.png" group-title="Brasil",Rede UTV Brasil
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/nSOcZMg.png" group-title="Brasil",Central TV
+#EXTINF:-1  tvg-id="RCTV.br" tvg-logo="https://i.imgur.com/nSOcZMg.png" group-title="Brasil",Central TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/SmBnXiX.png" group-title="Brasil",ISTV
