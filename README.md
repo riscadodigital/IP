@@ -5,3 +5,13 @@
  
 # [ CANAIS BRASIL ]
 
+
+# [ CANAIS PORTUGAL ]
+
+
+# [ CANAIS ESPANHA ] 
+
+
+# [ CANAIS ITÁLIA ]
+<img width="120" height="120" alt="RadioTaormina" src="https://github.com/user-attachments/assets/b6399be9-888f-41f5-b07b-d00f79ed87fc" />
+
