@@ -13,5 +13,8 @@
 
 
 # [ CANAIS ITÁLIA ]
+<img width="120" height="120" alt="Canal10" src="https://github.com/user-attachments/assets/72f2b9ce-9c28-442b-9bb2-ef7c8d208c14" />
+
+
 <img width="120" height="120" alt="RadioTaormina" src="https://github.com/user-attachments/assets/b6399be9-888f-41f5-b07b-d00f79ed87fc" />
 
