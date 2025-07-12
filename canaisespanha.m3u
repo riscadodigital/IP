@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="HispanTV.es" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-espanha/HispanTV.png" group-title="Espanã",HispanTV
+#EXTINF:-1 tvg-id="HispanTV.es" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-espanha/HispanTV.png" group-title="España",HispanTV
 https://live.presstv.ir/hls/hispantv.m3u8
 
 #EXTINF:-1 tvg-id="RTVE.es" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-espanha/TVE_Canal_24_horas.png" group-title="España",RTVE 24h
