@@ -15,6 +15,9 @@ https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
 #EXTINF:-1 tvg-id="Canale21.it" tvg-logo="https://i.imgur.com/5DPBhTi.png" group-title="Itália",Canale 21
 https://streamcdnc1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVLuna.it" tvg-logo="https://i.imgur.com/JOsn9yj.png" group-title="Itália",TV Luna
+https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
+
 
 
 
