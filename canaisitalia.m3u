@@ -23,7 +23,7 @@ https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale21.it" tvg-logo="https://i.imgur.com/5DPBhTi.png" group-title="Itália",Canale 21
 https://streamcdnc1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVLuna.it" tvg-logo="https://i.imgur.com/JOsn9yj.png" group-title="Itália",TV Luna
+#EXTINF:-1 tvg-id="TVLuna.it" tvg-logo="https://github.com/riscadodigital/IP/blob/ccfb303d27ce633ee51c4f7d4b396b343b869d12/logos-canais-italia/TVLuna.png" group-title="Itália",TV Luna
 https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 
 
