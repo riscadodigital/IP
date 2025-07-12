@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Canale10.it" tvg-logo="https://i.imgur.com/EqGkPv2.png" group-title="Itália",Canale 10
-https://nrvideo1.newradio.it/desxcerbht/desxcerbht/playlist.m3u8
+https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
 
 
 
