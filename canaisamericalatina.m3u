@@ -21,32 +21,32 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1  tvg-id="TVPeruInternacional.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TVPer%C3%BAInternacional_pe.png" group-title="Perú",TVPerú Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
-#EXTINF:-1  tvg-id="AntaresTV.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/AntaresTV_pe.png" group-title="Perú",AntaresTV
+#EXTINF:-1  tvg-id="AntaresTV.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/AntaresTV_pe.png" group-title="Perú",AntaresTV Perú
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
-#EXTINF:-1  tvg-id="CanalIPe.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CanalIPe_pe.png" group-title="Perú",CanalIP
+#EXTINF:-1  tvg-id="CanalIPe.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CanalIPe_pe.png" group-title="Perú",CanalIP Perú
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
 #EXTINF:-1  tvg-id="SolTV.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/SolTVPer%C3%BA_pe.png" group-title="Perú",SolTV Perú
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 
-#EXTINF:-1  tvg-id="TVenLinea.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TVenLineaCusco_pe.png" group-title="Perú",TV en Linea Cusco
+#EXTINF:-1  tvg-id="TVenLinea.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TVenLineaCusco_pe.png" group-title="Perú",TV en Linea Cusco Perú
 https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
 
-#EXTINF:-1  tvg-id="CNC.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CNCCajamarca_pe.png" group-title="Perú",CNC Cajamarca
+#EXTINF:-1  tvg-id="CNC.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CNCCajamarca_pe.png" group-title="Perú",CNC Cajamarca Perú
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
 
 
 #Chile
 
-#EXTINF:-1  tvg-id="VClassicTV.cl" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/VClassicTV_cl.png" group-title="Chile",VClassicTV
+#EXTINF:-1  tvg-id="VClassicTV.cl" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/VClassicTV_cl.png" group-title="Chile",VClassicTV Chile
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
-#EXTINF:-1  tvg-id="VClassicTVTropical.cl" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/VClassicTV_Se%C3%B1alTropical.png" group-title="Chile",VClassicTV Señal Tropical
+#EXTINF:-1  tvg-id="VClassicTVTropical.cl" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/VClassicTV_Se%C3%B1alTropical.png" group-title="Chile",VClassicTV Tropical Chile
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
 
-#EXTINF:-1  tvg-id="RetroPlus.cl" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/RetroPlus_cl.png" group-title="Chile",RetroPlus
+#EXTINF:-1  tvg-id="RetroPlus.cl" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/RetroPlus_cl.png" group-title="Chile",RetroPlus Chile
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 
 
@@ -56,16 +56,16 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1  tvg-id="Telesur.cr" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Telesur%20Costa%20Rica_cr.png" group-title="Costa Rica",Telesur Costa Rica
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
-#EXTINF:-1  tvg-id="Teletica.cr" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Teletica_cr.png" group-title="Costa Rica",Teletica
+#EXTINF:-1  tvg-id="Teletica.cr" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Teletica_cr.png" group-title="Costa Rica",Teletica Costa Rica
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
-#EXTINF:-1  tvg-id="Canal1.cr" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Canal%201_cr.png" group-title="Costa Rica",Canal 1
+#EXTINF:-1  tvg-id="Canal1.cr" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Canal%201_cr.png" group-title="Costa Rica",Canal 1 Costa Rica
 https://video20.klm99.com:3993/hybrid/play.m3u8
 
-#EXTINF:-1  tvg-id="Telered.cr" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Telered_cr.png" group-title="Costa Rica",Telered
+#EXTINF:-1  tvg-id="Telered.cr" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Telered_cr.png" group-title="Costa Rica",Telered Costa Rica
 https://k20.usastreams.com:8081/teleredcablera/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-id="VoiceOver.cr" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/VoiceOver_cr.png" group-title="Costa Rica",Voice Over
+#EXTINF:-1  tvg-id="VoiceOver.cr" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/VoiceOver_cr.png" group-title="Costa Rica",Voice Over Costa Rica
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
 
 
