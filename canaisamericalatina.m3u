@@ -21,9 +21,6 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1  tvg-id="AntaresTV.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/AntaresTV_pe.png" group-title="Perú",AntaresTV Perú
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
-#EXTINF:-1  tvg-id="CanalIPe.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CanalIPe_pe.png" group-title="Perú",CanalIP Perú
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-
 #EXTINF:-1  tvg-id="SolTV.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/SolTVPer%C3%BA_pe.png" group-title="Perú",SolTV Perú
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 
