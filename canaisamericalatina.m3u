@@ -1,5 +1,48 @@
 #EXTM3U
 
+#Argentina
+
+#EXTINF:-1  tvg-id="Canal5TV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/5TV_ar.png" group-title="Argentina",Canal 5TV Argentina
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8 
+
+#EXTINF:-1  tvg-id="CosmosTV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CosmosTV_ar.png" group-title="Argentina",Cosmos TV Argentina 
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1  tvg-id="Canal5Tigre.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Canal5Tigre_ar.png" group-title="Argentina",Canal 5 Tigre Argentina 
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+#EXTINF:-1  tvg-id="VerTV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/VerTV_ar.png" group-title="Argentina",VerTV Argentina
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/index.m3u8
+
+#EXTINF:-1  tvg-id="NeoTV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Neo_TV_ar.png" group-title="Argentina",Neo TV Argentina
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1  tvg-id="SicardiTv.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/SicardiTV_ar.png" group-title="Argentina",Sicardi TV Argentina
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+#EXTINF:-1  tvg-id="XLevel.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/XLevel_ar.png" group-title="Argentina",X Level Argentina
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+
+#EXTINF:-1  tvg-id="MusicTop.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/MusicTop_ar.png" group-title="Argentina",Music Top Argentina
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+
+#EXTINF:-1  tvg-id="LatinaTV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/LatinaTV_ar.png" group-title="Argentina",Latina TV Argentina
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
+
+#EXTINF:-1  tvg-id="TelpinTV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TelpinTV.png" group-title="Argentina",Telpin TV Argentina
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w634556098_b894100_sleng.m3u8
+
+#EXTINF:-1  tvg-id="LapachoTV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/LapachoTV_ar.png" group-title="Argentina",Lapacho TV Argentina
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
+
+#EXTINF:-1  tvg-id="CanalBlu.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CanalBlu_ar.png" group-title="Argentina",Canal Blu Argentina
+https://videostream.shockmedia.com.ar:19360/blumedios/blumedios.m3u8
+
+#EXTINF:-1  tvg-id="CeltaTV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CeltaTV_ar.png" group-title="Argentina",CeltaTV Argentina
+https://vivo.solumedia.com:19360/celta/celta.m3u8
+
+
+
 #Bolivia
 
 #EXTINF:-1  tvg-id="BoliviaTV.bol" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/BoliviaTV.png" group-title="Bolivia",Bolivia TV 
