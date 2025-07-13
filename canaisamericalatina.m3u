@@ -45,6 +45,20 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 
 
 
+#Colombia
+
+#EXTINF:-1  tvg-id="CanalCapital.co" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CanalCapital_co.png" group-title="Colombia", Canal Capital Colombia
+https://cdns.livewave.co:8081/canalcapital/index.m3u8
+
+#EXTINF:-1  tvg-id="CaliTV.co" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CaliTV_co.png" group-title="Colombia", CaliTV Colombia
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
+
+#EXTINF:-1  tvg-id="VeoTelevision.co" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/VeoTelevision_co.png" group-title="Colombia", Veo Televisión Colombia
+https://video.ejeserver.com/live/veotv.m3u8
+
+#EXTINF:-1  tvg-id="TDI.co" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TDIColombia_co.png" group-title="Colombia",TDI Colombia
+https://cdn.amelbasoluciones.co:8081/tdicolombia/index.fmp4.m3u8
+
 #Costa Rica
 
 #EXTINF:-1  tvg-id="Telesur.cr" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Telesur%20Costa%20Rica_cr.png" group-title="Costa Rica",Telesur Costa Rica
