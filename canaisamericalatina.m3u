@@ -162,6 +162,9 @@ https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 #México
 
+#EXTINF:-1 tvg-id="Canal10.mx" tvg-logo="" group-title="México",Canal 10 México
+https://5ca9af4645e15.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="" group-title="México",Canal Once México
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
