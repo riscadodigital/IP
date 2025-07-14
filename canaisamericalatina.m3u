@@ -2,7 +2,7 @@
 
 #Argentina
 
-#EXTINF:-1  tvg-id="Canal5TV.ar" tvg-logo="" group-title="Argentina",Ciudad Magazine Argentina
+#EXTINF:-1  tvg-id="CiudadMagazine.ar" tvg-logo="" group-title="Argentina",Ciudad Magazine Argentina
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1  tvg-id="Canal5TV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/5TV_ar.png" group-title="Argentina",Canal 5TV Argentina
