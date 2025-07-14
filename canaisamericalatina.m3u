@@ -2,9 +2,11 @@
 
 #Argentina
 
+#EXTINF:-1  tvg-id="Canal5TV.ar" tvg-logo="" group-title="Argentina",Ciudad Magazine Argentina
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
 #EXTINF:-1  tvg-id="Canal5TV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/5TV_ar.png" group-title="Argentina",Canal 5TV Argentina
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
- 
 
 #EXTINF:-1  tvg-id="CosmosTV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CosmosTV_ar.png" group-title="Argentina",Cosmos TV Argentina 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
