@@ -3,7 +3,8 @@
 #Argentina
 
 #EXTINF:-1  tvg-id="Canal5TV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/5TV_ar.png" group-title="Argentina",Canal 5TV Argentina
-https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8 
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+ 
 
 #EXTINF:-1  tvg-id="CosmosTV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CosmosTV_ar.png" group-title="Argentina",Cosmos TV Argentina 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
@@ -53,28 +54,6 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
 
 
-#Peru
-
-#EXTINF:-1  tvg-id="TVPeru.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TVPer%C3%BA_pe.png" group-title="Perú",TVPerú
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-
-#EXTINF:-1  tvg-id="TVPeruNoticias.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TVPer%C3%BANoticias_pe.png" group-title="Perú",TVPerú Noticias
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
-
-#EXTINF:-1  tvg-id="AntaresTV.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/AntaresTV_pe.png" group-title="Perú",AntaresTV Perú
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:-1  tvg-id="SolTV.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/SolTVPer%C3%BA_pe.png" group-title="Perú",SolTV Perú
-https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-
-#EXTINF:-1  tvg-id="TVenLinea.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TVenLineaCusco_pe.png" group-title="Perú",TV en Linea Cusco Perú
-https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
-
-#EXTINF:-1  tvg-id="CNC.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CNCCajamarca_pe.png" group-title="Perú",CNC Cajamarca Perú
-https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-
-
-
 #Chile
 
 #EXTINF:-1  tvg-id="VClassicTV.cl" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/VClassicTV_cl.png" group-title="Chile",VClassicTV Chile
@@ -102,6 +81,29 @@ https://video.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1  tvg-id="TDI.co" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TDIColombia_co.png" group-title="Colombia",TDI Colombia
 https://cdn.amelbasoluciones.co:8081/tdicolombia/index.fmp4.m3u8
 
+
+#Peru
+
+#EXTINF:-1  tvg-id="TVPeru.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TVPer%C3%BA_pe.png" group-title="Perú",TVPerú
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
+#EXTINF:-1  tvg-id="TVPeruNoticias.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TVPer%C3%BANoticias_pe.png" group-title="Perú",TVPerú Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+
+#EXTINF:-1  tvg-id="AntaresTV.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/AntaresTV_pe.png" group-title="Perú",AntaresTV Perú
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1  tvg-id="SolTV.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/SolTVPer%C3%BA_pe.png" group-title="Perú",SolTV Perú
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+
+#EXTINF:-1  tvg-id="TVenLinea.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TVenLineaCusco_pe.png" group-title="Perú",TV en Linea Cusco Perú
+https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
+
+#EXTINF:-1  tvg-id="CNC.pe" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CNCCajamarca_pe.png" group-title="Perú",CNC Cajamarca Perú
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+
+
+
 #Costa Rica
 
 #EXTINF:-1  tvg-id="Telesur.cr" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Telesur%20Costa%20Rica_cr.png" group-title="Costa Rica",Telesur Costa Rica
@@ -117,11 +119,22 @@ https://k20.usastreams.com:8081/teleredcablera/tracks-v1a1/mono.m3u8
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
 
 
+#El Salvador
+
+#EXTINF:-1  tvg-id="Canal21.sv" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Canal21_sv.png" group-title="El Savador",Canal 21 El Salvador
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+
+#EXTINF:-1  tvg-id="Canal6.sv" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Canal6_sv.png" group-title="El Savador",Canal 6 El Salvador
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+
+#EXTINF:-1  tvg-id="WOWTV.sv" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/WowTv_sv.png" group-title="El Savador",WOW TV El Salvador
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-id="TUTV11.sv" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TUTV11_sv.png" group-title="El Salvador",TUTV11 
+https://stream.giostreaming.net:19360/canal11/canal11.m3u8
+
+
 #República Dominicana
 
-#EXTINF:-1  tvg-id="TeleuniversoCanal29" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Teleuniverso%20Canal%2029_rd.png" group-title="República Dominicana",Teleuniverso Canal 29 R. Dominicana
+#EXTINF:-1  tvg-id="TeleuniversoCanal29" tvg-logo="" group-title="República Dominicana",Teleuniverso Canal 29 R. Dominicana
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
-
-
-
-
