@@ -136,5 +136,5 @@ https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 
 #República Dominicana
 
-#EXTINF:-1  tvg-id="TeleuniversoCanal29" tvg-logo="" group-title="República Dominicana",Teleuniverso Canal 29 R. Dominicana
+#EXTINF:-1  tvg-id="TeleuniversoCanal29" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Teleuniverso%20Canal%2029_rd.png" group-title="República Dominicana",Teleuniverso Canal 29 R. Dominicana
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
