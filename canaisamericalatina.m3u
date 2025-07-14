@@ -103,6 +103,12 @@ https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
 
+#Venezuela
+
+#EXTINF:-1  tvg-id="Novelisima.ve" tvg-logo="" group-title="Venezuela",Novelisima Venezuela
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+
+
 
 #Costa Rica
 
