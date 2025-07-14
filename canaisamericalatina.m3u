@@ -159,5 +159,5 @@ https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 #USA/América Latina
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/EstrellaTV_usa.png" group-title="USA",Estrella TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/EstrellaTV_usa.png" group-title="USA",Estrella TV EUA
 https://estrellatv-plex.amagi.tv/playlist.m3u8
