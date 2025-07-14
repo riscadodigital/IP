@@ -147,7 +147,7 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 #EXTINF:-1  tvg-id="WOWTV.sv" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/WowTv_sv.png" group-title="El Savador",WOW TV El Salvador
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-id="TUTV11.sv" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TUTV11_sv.png" group-title="El Salvador",TUTV11 
+#EXTINF:-1  tvg-id="TUTV11.sv" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TUTV11_sv.png" group-title="El Salvador",TUTV11 El Salvador 
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 
 
