@@ -157,7 +157,13 @@ https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="" group-title="México",Canal Once México
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+
+
+
+
 #USA/América Latina
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/EstrellaTV_usa.png" group-title="USA",Estrella TV EUA
+#EXTINF:-1 tvg-id="EstrellaTv.usa" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/EstrellaTV_usa.png" group-title="USA",Estrella TV EUA
 https://estrellatv-plex.amagi.tv/playlist.m3u8
