@@ -2,7 +2,7 @@
 
 #Argentina
 
-#EXTINF:-1  tvg-id="CiudadMagazine.ar" tvg-logo="" group-title="Argentina",Ciudad Magazine Argentina
+#EXTINF:-1  tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CiudadMagazine_ar.png" group-title="Argentina",Ciudad Magazine Argentina
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1  tvg-id="Canal5TV.ar" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/5TV_ar.png" group-title="Argentina",Canal 5TV Argentina
@@ -107,16 +107,16 @@ https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
 #Venezuela
 
-#EXTINF:-1  tvg-id="VepacoTV.ve" tvg-logo="" group-title="Venezuela",VepacoTV Venezuela
+#EXTINF:-1  tvg-id="VepacoTV.ve" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/VepacoTV_ve.png" group-title="Venezuela",VepacoTV Venezuela
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 
-#EXTINF:-1  tvg-id="TVO.ve" tvg-logo="" group-title="Venezuela",TVO Venezuela
+#EXTINF:-1  tvg-id="TVO.ve" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TVO_ve.png" group-title="Venezuela",TVO Venezuela
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 
-#EXTINF:-1  tvg-id="Novelisima.ve" tvg-logo="" group-title="Venezuela",Novelisima Venezuela
+#EXTINF:-1  tvg-id="Novelisima.ve" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Novelisima_ve.png" group-title="Venezuela",Novelisima Venezuela
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1  tvg-id="PromarTV.ve" tvg-logo="" group-title="Venezuela",Promar TV Venezuela
+#EXTINF:-1  tvg-id="PromarTV.ve" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/PromarTV_ve.png" group-title="Venezuela",Promar TV Venezuela
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
 
