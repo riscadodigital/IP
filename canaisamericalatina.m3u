@@ -177,6 +177,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.mx" tvg-logo="" group-title="México",Canal 26 Aguascalientes México
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal13.mx" tvg-logo="" group-title="México",Canal 13 Bajío México
+https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_1c690d40dfb711eeabd66ba1b9ba93a1/tracks-v1/index.fmp4.m3u8
 
 
 #USA/América Latina
