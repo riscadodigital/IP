@@ -105,6 +105,9 @@ https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
 #Venezuela
 
+#EXTINF:-1  tvg-id="VepacoTV.ve" tvg-logo="" group-title="Venezuela",VepacoTV Venezuela
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+
 #EXTINF:-1  tvg-id="TVO.ve" tvg-logo="" group-title="Venezuela",TVO Venezuela
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 
