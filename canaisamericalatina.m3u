@@ -162,19 +162,19 @@ https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 #México
 
-#EXTINF:-1 tvg-id="Canal10.mx" tvg-logo="" group-title="México",Canal 10 México
+#EXTINF:-1 tvg-id="Canal10.mx" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Canal%2010_mx.png" group-title="México",Canal 10 México
 https://5ca9af4645e15.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="" group-title="México",Canal Once México
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/CanalOnce_mx.png" group-title="México",Canal Once México
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemax.mx" tvg-logo="" group-title="México",Telemax México
+#EXTINF:-1 tvg-id="Telemax.mx" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Telamax_mx.png" group-title="México",Telemax México
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPMazatlan.mx" tvg-logo="" group-title="México",TVP Mazatlán México
+#EXTINF:-1 tvg-id="TVPMazatlan.mx" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/TVP%20Mazatlan_mx.png" group-title="México",TVP Mazatlán México
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.mx" tvg-logo="" group-title="México",Canal 26 México
+#EXTINF:-1 tvg-id="Canal26.mx" tvg-logo="https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/logos-canais-americalatina/Canal26Aguascalientes_mx.png" group-title="México",Canal 26 México
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
 
